@@ -12,6 +12,9 @@
     },
     {
       "key": "borderRadius"
+    },
+    {
+      "key": "tooltip"
     }
   ],
   "dynamicTriggerPathList": [
@@ -42,6 +45,7 @@
   "responsiveBehavior": "hug",
   "rightColumn": 29,
   "text": "Submit",
+  "tooltip": "{{Select_public_users1.data}}",
   "topRow": 47,
   "type": "BUTTON_WIDGET",
   "version": 1,
